@@ -2,7 +2,7 @@
 Documentation of AI-assisted workflow setup, tool integration, and self-directed technical onboarding using Cursor, Claude, Codex, and GitHub.
 
 ## Objective
-To demonstrate how I do the task with minimum instructions, and how I would solve problems if it happens unexpectedly.
+To demonstrate how I complete the task with minimal instructions and how I would solve problems if they arise unexpectedly.
 
 ## Tools Installed
 - Cursor IDE
