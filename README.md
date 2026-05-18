@@ -19,4 +19,4 @@ To demonstrate how I complete the task with minimal instructions and how I would
 
 ## Challenges Encountered and How I Solved Them
 - Extension installation issue
-I directly started to add extensions once the cursor had been successfully installed. However, when I clicked the extension’s button, I couldn’t search for anything, including Claude Code and Codex. I searched what might be the problem on YouTube and noticed that the folder I selected wasn’t successfully opened. Hence, rather than just selecting the folder through Cursor (app), I dragged the folder to the Cursor (app) directly, and now everything is feasible.
+I started to add extensions once the Cursor had been successfully installed. However, when I clicked the extension’s button, I couldn’t search for anything, including Claude Code and Codex. I searched what might be the problem on YouTube and noticed that the folder I selected wasn’t successfully opened. Hence, rather than just selecting the folder into the Cursor, I dragged the folder into the Cursor directly, and now everything is feasible.
