@@ -35,7 +35,7 @@ I figured out that learning Python or anything else related to coding always has
 # Research Project: Cold Outreach Pipeline for B2B SaaS
 
 ## Research Objective
-This research aims to collect learning materials from experts who discuss how cold outreach pipelines impact B2B SaaS growth. The goal is to analyze insights from sources such as YouTube transcripts, LinkedIn posts, and other relevant content to identify practical patterns and strategies used in real outreach systems.
+This research aims to collect and analyze insights from experts who discuss how cold outreach pipelines impact B2B SaaS growth. By reviewing YouTube transcripts, LinkedIn posts, and other relevant content, the project seeks to identify practical patterns and strategies used in real outreach systems to generate pipeline opportunities and acquire customers in B2B SaaS environments.
 
 ## Why I Chose This Topic
 B2B SaaS companies rely heavily on predictable customer acquisition systems to generate revenue and scale sustainably. Cold outreach remains one of the most common methods used to create pipeline opportunities, especially during the early stages of growth.
