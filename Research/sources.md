@@ -5,20 +5,22 @@ This document lists the experts selected for the Cold Outreach Pipeline for B2B 
 Selection prioritized practitioners who actively share outbound sales, prospecting, pipeline generation, and SaaS growth strategies through LinkedIn, YouTube, podcasts, and other public channels.
 
 
-## Samantha McKenna
+## 1. Samantha McKenna
 
-## Josh Braun
+## 2. Josh Braun
 
-## Kevin Dorsey
+## 3. Kevin Dorsey
 
-## Kyle Coleman
+## 4. Kyle Coleman
 
-## Belal Batrawy
+## 5. Jason Bay
 
-## Will Aitken
+## 6. Steli Efti
 
-## Jason Bay
+## 7. Alex Berman
 
-## Donald C Kelly
+## 8. Max Altschuler
 
-## Alex Berman
+## 9. Armand Farrokh
+
+## 10. Morgan Ingram

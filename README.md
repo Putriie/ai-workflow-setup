@@ -40,9 +40,6 @@ I figured out that learning Python or anything else related to coding always has
 ## Why I Chose This Topic
 
 
-## Why I Chose These Experts
-
-
 ## Materials Collected
 - Expert profiles and annotations
 - LinkedIn content analysis
@@ -51,4 +48,9 @@ I figured out that learning Python or anything else related to coding always has
 - Emerging patterns and strategic insights
 
 ## Repository Structure
-
+### README.MD
+### Research
+#### sources.md
+#### linkedin-posts
+#### youtube-transcripts
+#### other
