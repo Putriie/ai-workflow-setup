@@ -48,5 +48,9 @@ This pipeline is measurable and structured, which makes it suitable for analysis
 - API-collected source materials
 - Emerging patterns and strategic insights
 
-## Research Folder
-For more details, please find it here: https://github.com/Putriie/ai-workflow-setup/tree/main/Research 
+## Repository Structure
+Research materials are organized within the Research folder and include:
+- sources.md
+- linkedin-posts.md
+- youtube-transcripts.md
+- other.md
