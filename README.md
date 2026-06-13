@@ -27,3 +27,28 @@ I've integrated my GitHub repository into the Cursor. However, any changes made 
 
 ## Reflection
 I figured out that learning Python or anything else related to coding always has its own traditional way and procedures. However, most of the time, we can optimize the work and improve efficiency by utilizing AI with the managed command and results.
+
+
+
+---
+
+# Research Project: Cold Outreach Pipeline for B2B SaaS
+
+## Research Objective
+
+
+## Why I Chose This Topic
+
+
+## Why I Chose These Experts
+
+
+## Materials Collected
+- Expert profiles and annotations
+- LinkedIn content analysis
+- YouTube transcript research
+- API-collected source materials
+- Emerging patterns and strategic insights
+
+## Repository Structure
+
