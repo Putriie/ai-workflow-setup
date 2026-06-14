@@ -9,12 +9,9 @@ Selection prioritized practitioners who actively share outbound sales, prospecti
 LinkedIn: [https://www.linkedin.com/in/samsalesli](https://www.linkedin.com/in/samsalesli)  
 Youtube: [https://www.youtube.com/@hashtagsamsales](https://www.youtube.com/@hashtagsamsales)
 
-**Content Published Date**  
-LinkedIn:  
-Youtube:  
-- June 18, 2024  
-- June 3, 2023  
-- July 28, 2022
+**Content Collected Date**  
+LinkedIn: 2024 - 2025  
+Youtube: July 2022 - June 2024
 
 **Why Selected:**  
 Founder of #samsales Consulting and recognized expert in social selling and personalized outreach.
@@ -23,12 +20,12 @@ Founder of #samsales Consulting and recognized expert in social selling and pers
 
 ## 2. Josh Braun
 
-LinkedIn:
+LinkedIn:  
 Youtube:
 
 **Content Collected Date**  
-LinkedIn:  
-Youtube:
+LinkedIn: Jul 2022 – Jan 2025  
+Youtube: Feb 2021 – Apr 2024
 
 **Why Selected:**
 
@@ -36,12 +33,12 @@ Youtube:
 
 ## 3. Kevin Dorsey
 
-LinkedIn:
+LinkedIn:  
 Youtube:
 
 **Content Collected Date**  
-LinkedIn:  
-Youtube:
+LinkedIn: Nov 2022 – Oct 2023  
+Youtube: Oct 2017 – Jun 2024
 
 **Why Selected:**
 
@@ -49,12 +46,12 @@ Youtube:
 
 ## 4. Kyle Coleman
 
-LinkedIn:
+LinkedIn:  
 Youtube:
 
 **Content Collected Date**  
-LinkedIn:  
-Youtube:
+LinkedIn: 2020 – 2025  
+Youtube: Sep 2024 – Nov 2024
 
 **Why Selected:**
 
@@ -66,8 +63,8 @@ LinkedIn:
 Youtube:
 
 **Content Collected Date**  
-LinkedIn:  
-Youtube:
+LinkedIn: Aug 2023 – 2025  
+Youtube: Aug 2024 – Jul 2025
 
 **Why Selected:**
 
@@ -75,12 +72,12 @@ Youtube:
 
 ## 6. Steli Efti
 
-LinkedIn:
-Youtube:
+LinkedIn:  
+YouTube:
 
 **Content Collected Date**  
-LinkedIn:  
-Youtube:
+LinkedIn: 2024 – 2025  
+YouTube: May 2014 – Apr 2021
 
 **Why Selected:**
 
@@ -92,8 +89,8 @@ LinkedIn:
 Youtube:
 
 **Content Collected Date**  
-LinkedIn:  
-Youtube:
+LinkedIn: 2024 – 2025  
+YouTube: Oct 2022 – Sep 2024
 
 **Why Selected:**
 
@@ -105,8 +102,8 @@ LinkedIn:
 Youtube:
 
 **Content Collected Date**  
-LinkedIn:  
-Youtube:
+LinkedIn:2025  
+YouTube: Oct 2020 – May 2024
 
 **Why Selected:**
 
@@ -118,8 +115,8 @@ LinkedIn:
 Youtube:
 
 **Content Collected Date**  
-LinkedIn:  
-Youtube:
+LinkedIn:Oct 2021 – May 2025  
+YouTube: Aug 2024 – Jul 2025
 
 **Why Selected:**
 
@@ -127,12 +124,12 @@ Youtube:
 
 ## 10. Morgan Ingram
 
-LinkedIn: [https://www.linkedin.com/in/morganjingramamp/](https://www.linkedin.com/in/morganjingramamp/)
+LinkedIn: [https://www.linkedin.com/in/morganjingramamp/](https://www.linkedin.com/in/morganjingramamp/)  
 Youtube: [https://www.youtube.com/@MorganJIngram](https://www.youtube.com/@MorganJIngram)
 
 **Content Collected Date**  
-LinkedIn:  
-Youtube:
+LinkedIn: 2025  
+YouTube: Aug 2020 – Apr 2025
 
 **Why Selected:**
 
