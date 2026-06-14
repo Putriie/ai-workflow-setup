@@ -51,6 +51,6 @@ This pipeline is measurable and structured, which makes it suitable for analysis
 ## Repository Structure
 Research materials are organized within the Research folder and include:
 - sources.md
-- linkedin-posts.md
-- youtube-transcripts.md
-- other.md
+- linkedin-posts
+- youtube-transcripts
+- other
