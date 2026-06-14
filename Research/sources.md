@@ -6,15 +6,15 @@ Selection prioritized practitioners who actively share outbound sales, prospecti
 
 ## 1. Samantha McKenna
 
-LinkedIn: [https://www.linkedin.com/in/samsalesli](https://www.linkedin.com/in/samsalesli)
-
+LinkedIn: [https://www.linkedin.com/in/samsalesli](https://www.linkedin.com/in/samsalesli)  
 Youtube: [https://www.youtube.com/@hashtagsamsales](https://www.youtube.com/@hashtagsamsales)
 
-### Content Collected Date
-LinkedIn:
+### Content Collected Date  
+LinkedIn:  
 Youtube:
 
-### Why Selected: Founder of #samsales Consulting and recognized expert in social selling and personalized outreach.
+### Why Selected:  
+Founder of #samsales Consulting and recognized expert in social selling and personalized outreach.
 
 ### Content Focus:
 
