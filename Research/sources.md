@@ -8,17 +8,15 @@ Selection prioritized practitioners who actively share outbound sales, prospecti
 
 LinkedIn: [https://www.linkedin.com/in/samsalesli](https://www.linkedin.com/in/samsalesli)
 
-
-
 Youtube: [https://www.youtube.com/@hashtagsamsales](https://www.youtube.com/@hashtagsamsales)
 
-Content Collected Date
+### Content Collected Date
 LinkedIn:
 Youtube:
 
-Why Selected: Founder of #samsales Consulting and recognized expert in social selling and personalized outreach.
+### Why Selected: Founder of #samsales Consulting and recognized expert in social selling and personalized outreach.
 
-Content Focus:
+### Content Focus:
 
 ## 2. Josh Braun
 
