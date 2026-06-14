@@ -11,7 +11,10 @@ Youtube: [https://www.youtube.com/@hashtagsamsales](https://www.youtube.com/@has
 
 **Content Published Date**  
 LinkedIn:  
-Youtube: June 18, 2024; June 3, 2023; July 28, 2022
+Youtube:  
+- June 18, 2024  
+- June 3, 2023  
+- July 28, 2022
 
 **Why Selected:**  
 Founder of #samsales Consulting and recognized expert in social selling and personalized outreach.
