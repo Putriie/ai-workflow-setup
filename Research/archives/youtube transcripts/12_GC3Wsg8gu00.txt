@@ -1,0 +1,5 @@
+EXPERT: Kyle Coleman
+TITLE: AI in GTM: Effectiveness Over Efficiency
+URL: https://www.youtube.com/watch?v=GC3Wsg8gu00
+
+For me, Ben, it's so much more about effectiveness than it is about efficiency. Efficiency is is a dangerous game to play. And I think in many respects, like this obsession with efficiency and obsession with productivity or scale has caused some real problems in the market. Like it's the reason that there's so like marketing automation and sales automation is the reason yours and my inbox is an absolute disaster right now. We just made it too easy to play a volume game. So now it's all about effectiveness. So what does effectiveness mean? One, the quality of the AI outputs, you know, if you're asking it to write emails needs to be really good. So the training there needs to be really good. Otherwise, the the emails are going to be crappy or your team is going to spend a lot of time rewriting them and it's counterproductive. And that's a totally different calculus that changes the game.

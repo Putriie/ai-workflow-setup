@@ -1,0 +1,407 @@
+{
+  "research_meta": {
+    "title": "B2B SaaS Cold Outreach LinkedIn Post Research",
+    "focus_topics": [
+      "cold outreach",
+      "prospecting",
+      "sales development",
+      "outbound pipeline generation"
+    ],
+    "compiled_date": "2025-06",
+    "expert_count": 10,
+    "posts_per_expert": 3,
+    "total_posts": 30
+  },
+  "experts": [
+    {
+      "id": 1,
+      "name": "Samantha McKenna",
+      "linkedin_handle": "samsalesli",
+      "linkedin_url": "https://www.linkedin.com/in/samsalesli",
+      "background": "Founder & CEO of #samsales Consulting | Ex-LinkedIn executive | Creator of Show Me You Know Me® (SMYKM) methodology",
+      "posts": [
+        {
+          "post_id": "1-1",
+          "url": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7313651755962040324-DghF",
+          "date": "2025-03",
+          "topic": "cold outreach",
+          "summary": "McKenna shares her Show Me You Know Me (SMYKM) framework for cold outreach, explaining how hyper-personalized emails achieve open rates of 43% vs. the 6% industry average, with a 20% reply rate vs. 0.9% average.",
+          "key_takeaway": "Generic outreach is dead. Personalizing your subject line AND body copy to demonstrate genuine research on the prospect drives 7x higher open rates.",
+          "b2b_saas_relevance": "Directly applicable to SaaS SDR and AE outbound motions. The SMYKM framework provides a replicable system for top-of-funnel personalization that scales without sacrificing authenticity.",
+          "tags": ["cold email", "personalization", "SMYKM", "open rates", "SDR"]
+        },
+        {
+          "post_id": "1-2",
+          "url": "https://www.linkedin.com/in/samsalesli",
+          "date": "2024-2025",
+          "topic": "cold email framework",
+          "summary": "McKenna argues she has never made a cold call in 16 years of sales, building an 8-figure business solely on cold email. She outlines her 7 elements of the perfect cold email.",
+          "key_takeaway": "Quality beats quantity. Cold emails built on deep research and purpose-built value props outperform high-volume spray-and-pray sequences every time.",
+          "b2b_saas_relevance": "Ideal for SaaS companies where buyers are flooded with AI-generated outreach. McKenna's framework helps reps break through noise by treating each prospect as an individual.",
+          "tags": ["cold email", "7 elements", "quality over quantity", "enterprise SaaS"]
+        },
+        {
+          "post_id": "1-3",
+          "url": "https://www.linkedin.com/posts/benyaminholley_just-saw-samantha-mckenna-tell-everyone-that-activity-7311774658666655746-a5gq",
+          "date": "2025-03",
+          "topic": "channel strategy",
+          "summary": "McKenna publicly challenges the industry norm of cold calling, sparking broad debate. She doubles down on written outreach as the superior channel based on her consulting firm's results across 250+ SaaS and technology clients.",
+          "key_takeaway": "Channel selection matters. For senior execs and technical buyers, well-crafted written outreach outperforms cold calls.",
+          "b2b_saas_relevance": "Challenges SDR teams to rethink their channel mix and invest more in written personalization, particularly for high-ACV SaaS deals.",
+          "tags": ["channel strategy", "cold calling", "cold email", "channel mix", "ACV"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Josh Braun",
+      "linkedin_handle": "josh-braun",
+      "linkedin_url": "https://www.linkedin.com/in/josh-braun",
+      "background": "Sales trainer | Author of Badass B2B Growth Guide | Teaches non-pushy buyer-centric prospecting",
+      "posts": [
+        {
+          "post_id": "2-1",
+          "url": "https://www.linkedin.com/posts/josh-braun_prospecting-is-like-throwing-a-party-you-activity-6957843051335540738-NsoC",
+          "date": "2022-07",
+          "topic": "prospecting mindset",
+          "summary": "Braun uses the metaphor of throwing a party to reframe SDR anxiety around prospecting outcomes. You control who you invite, what you say, and how you show up — but not who responds.",
+          "key_takeaway": "Detach from outcomes and focus on the craft of outreach. Reps who obsess over reply rates burn out; reps who focus on improving their process win long-term.",
+          "b2b_saas_relevance": "Critical mindset shift for SaaS SDR teams where rejection is constant. Helps build a sustainable, high-volume outbound culture without emotional attrition.",
+          "tags": ["mindset", "SDR", "prospecting", "outcome detachment", "outbound culture"]
+        },
+        {
+          "post_id": "2-2",
+          "url": "https://www.linkedin.com/posts/josh-braun_josh-a-prospect-responded-to-my-cold-email-activity-7074138982707556352-T9Cm",
+          "date": "2023-06",
+          "topic": "objection handling",
+          "summary": "Braun explains that 'not interested right now' is not an objection — it's simply not the right moment. Using Jobs-to-be-Done theory, he reframes the SDR's role as planting seeds rather than forcing urgency.",
+          "key_takeaway": "Most prospects aren't in buy mode when you reach out cold. The goal is to be memorable and helpful enough that when they enter the buying window, you're top of mind.",
+          "b2b_saas_relevance": "Especially relevant for SaaS products with long consideration cycles (6-18 months). Helps teams avoid burning bridges with pushy follow-ups.",
+          "tags": ["objection handling", "Jobs-to-be-Done", "nurture", "timing", "long sales cycle"]
+        },
+        {
+          "post_id": "2-3",
+          "url": "https://www.linkedin.com/posts/josh-braun_inbound-vs-outbound-starting-the-conversation-activity-7280213681483788288-puKF",
+          "date": "2025-01",
+          "topic": "outbound conversation starters",
+          "summary": "Braun contrasts inbound vs. outbound conversation starters, arguing outbound requires fundamentally different openers because prospects haven't raised their hand. He provides frameworks for starting cold conversations without triggering sales resistance.",
+          "key_takeaway": "Outbound openers must lead with insight or curiosity — not product pitches. The best cold outreach makes the prospect feel understood before it ever mentions what you sell.",
+          "b2b_saas_relevance": "Directly applicable to SaaS AE self-sourcing and SDR sequences. Reframes the first touchpoint as a conversation-starter rather than a pitch.",
+          "tags": ["cold call opener", "outbound", "conversation starter", "AE self-sourcing", "SDR"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kevin 'KD' Dorsey",
+      "linkedin_handle": "kddorsey3",
+      "linkedin_url": "https://www.linkedin.com/in/kddorsey3",
+      "background": "VP of Sales & Partnerships at Bench Accounting | Sales Leadership Coach | Pipeline Over Everything (POE) philosophy",
+      "posts": [
+        {
+          "post_id": "3-1",
+          "url": "https://www.linkedin.com/posts/kddorsey3_let-me-give-you-one-of-the-most-powerful-activity-7123638669931868162-JuwF",
+          "date": "2023-10",
+          "topic": "outbound prospecting system",
+          "summary": "KD shares an iterative three-phase outbound prospecting system: identify target segments, scale outreach with VAs, use conversational prospecting to book sales calls. Advocates constant recalibration between phases.",
+          "key_takeaway": "The most powerful outbound tactic is iterative — test conversationally, find what books calls, then scale with automation. Relevancy always beats volume.",
+          "b2b_saas_relevance": "Provides a scalable outbound model for early-stage SaaS teams. The VA-assisted scaling approach is particularly cost-effective for Series A/B companies.",
+          "tags": ["outbound system", "iterative", "VA", "scaling", "relevancy"]
+        },
+        {
+          "post_id": "3-2",
+          "url": "https://www.linkedin.com/posts/kddorsey3_poe-pipeline-over-everything-this-has-activity-6996556173323694080-OAB-",
+          "date": "2022-11",
+          "topic": "pipeline culture",
+          "summary": "KD introduces his Pipeline Over Everything (POE) philosophy, arguing that pipeline health is the single most important metric in sales.",
+          "key_takeaway": "Leaders who don't build pipeline-first cultures create reactive sales teams. POE is both a mindset and a system — every rep and leader should prioritize pipeline creation above all other activities.",
+          "b2b_saas_relevance": "Foundational for SaaS sales leadership. Helps VPs and CROs align team priorities around top-of-funnel activity rather than just closing.",
+          "tags": ["POE", "pipeline", "sales leadership", "culture", "top of funnel"]
+        },
+        {
+          "post_id": "3-3",
+          "url": "https://www.linkedin.com/posts/kddorsey3_do-you-know-the-3-cs-of-pipeline-create-activity-7097196753417818112-qBRb",
+          "date": "2023-08",
+          "topic": "pipeline framework",
+          "summary": "KD introduces the 3 Cs of Pipeline framework: Create, Convert, Close. He argues the industry over-invests in pipeline creation content but neglects conversion and closing phases.",
+          "key_takeaway": "Creating pipeline is only 1/3 of the equation. Teams that invest equally in conversion and closing see dramatically higher win rates from the same outbound activity.",
+          "b2b_saas_relevance": "Directly relevant to SaaS revenue leaders looking to improve pipeline efficiency. Encourages SDR-to-AE handoff quality and full-cycle accountability.",
+          "tags": ["3 Cs", "pipeline", "conversion", "closing", "win rate", "SDR handoff"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kyle Coleman",
+      "linkedin_handle": "kyletcoleman",
+      "linkedin_url": "https://www.linkedin.com/in/kyletcoleman",
+      "background": "Global VP Marketing @ ClickUp | Former VP Revenue Growth @ Clari | Advocate for personalization over automation",
+      "posts": [
+        {
+          "post_id": "4-1",
+          "url": "https://www.linkedin.com/posts/kyletcoleman_sdr-outbound-prospecting-activity-6631211778837749761-LZqp",
+          "date": "2020",
+          "topic": "personalization vs. templates",
+          "summary": "Coleman tracked every cold outreach touchpoint he received over 10 days: 82 templated emails got zero responses; 2 personalized emails got 2 responses. Direct mail had a 100% response rate.",
+          "key_takeaway": "The data is unambiguous — templates get ignored, personalization gets responses. SDRs who invest in research and custom messaging at lower volume consistently outperform high-volume automation.",
+          "b2b_saas_relevance": "A wake-up call for SaaS SDR teams relying on mass sequencing tools. Demonstrates quantitatively that multi-channel, personalized outreach is the only strategy that earns responses from senior decision-makers.",
+          "tags": ["personalization", "templates", "multi-channel", "data", "SDR", "response rate"]
+        },
+        {
+          "post_id": "4-2",
+          "url": "https://www.linkedin.com/in/kyletcoleman",
+          "date": "2025",
+          "topic": "SDR systems in 2025",
+          "summary": "Coleman argues SDRs don't need more motivation — they need better systems. He outlines the winning 2025 SDR setup: clear ICP and messaging, zero manual busywork, and automation of everything except the human conversation layer.",
+          "key_takeaway": "The winning formula for outbound in 2025 is: eliminate all non-human tasks through automation, then focus rep energy exclusively on research, personalization, and live conversation.",
+          "b2b_saas_relevance": "Highly relevant for SaaS RevOps and sales enablement leaders building or rebuilding SDR programs. Separates tool infrastructure (automatable) from human judgment (irreplaceable).",
+          "tags": ["SDR systems", "automation", "ICP", "RevOps", "2025", "enablement"]
+        },
+        {
+          "post_id": "4-3",
+          "url": "https://www.linkedin.com/posts/kyletcoleman_the-best-two-cold-emails-ive-gotten-so-activity-6770013018194632704-KRM2",
+          "date": "2021-02",
+          "topic": "cold email best practices",
+          "summary": "Coleman shares the two best cold emails he has received (and agreed to take meetings from), breaking down exactly why they worked: both led with a specific, relevant insight rather than a product pitch.",
+          "key_takeaway": "The best cold emails feel less like sales and more like a colleague sharing a valuable observation. Leading with genuine insight is the fastest path to a meeting.",
+          "b2b_saas_relevance": "Provides a real-world benchmark for SaaS reps writing cold emails to senior marketing and revenue leaders. Coleman's examples are widely referenced as gold-standard B2B outreach templates.",
+          "tags": ["cold email", "insight-led", "meeting booking", "best practices", "template analysis"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Jason Bay",
+      "linkedin_handle": "jasondbay",
+      "linkedin_url": "https://www.linkedin.com/in/jasondbay",
+      "background": "Outbound Coach, Trainer & SKO Speaker | Founder of Outbound Squad™ | Specializes in B2B prospecting at scale",
+      "posts": [
+        {
+          "post_id": "5-1",
+          "url": "https://www.linkedin.com/posts/jasondbay_7-hard-truths-about-outbound-in-2025-activity-7320779729769304065-7SAC",
+          "date": "2025",
+          "topic": "state of outbound 2025",
+          "summary": "Bay shares 7 hard truths about outbound, including that cold call pick-up rates are below 4%, email reply rates are under 2%, and the sales engagement tools meant to help have made the problem worse by enabling mass spam.",
+          "key_takeaway": "The old Predictable Revenue model is broken. SDR teams treating outbound as a numbers game are losing — teams winning are those treating each prospect interaction as a human relationship.",
+          "b2b_saas_relevance": "Critical framing for SaaS revenue leaders evaluating their SDR motion. Bay's data-backed argument helps justify investment in quality-over-quantity outbound systems vs. legacy high-volume sequencing.",
+          "tags": ["state of outbound", "Predictable Revenue", "cold call", "reply rate", "2025", "SDR"]
+        },
+        {
+          "post_id": "5-2",
+          "url": "https://www.linkedin.com/posts/jasondbay_sales-prospecting-outbound-activity-7118206306963832833-XttI",
+          "date": "2023-10",
+          "topic": "mobile-first cold email",
+          "summary": "Bay shares a mobile-first cold email framework — emails under 75 words, short paragraphs, and punchy subject lines — based on the insight that most B2B buyers now read email on mobile.",
+          "key_takeaway": "Format is as important as content. Cold emails written for desktop fail on mobile. SDRs should write every cold email assuming it'll be read on a phone screen in 8 seconds.",
+          "b2b_saas_relevance": "Immediately actionable for SaaS SDR teams. Mobile-optimizing cold emails is a high-impact, low-cost change that can improve response rates quickly.",
+          "tags": ["mobile", "cold email", "format", "75 words", "subject line", "SDR"]
+        },
+        {
+          "post_id": "5-3",
+          "url": "https://www.linkedin.com/posts/jasondbay_sales-prospecting-outbound-activity-7095374466934808576-7r1R",
+          "date": "2023-08",
+          "topic": "cold call pick-up rates",
+          "summary": "Bay discusses cold call pick-up rates (4-5% average) and shares practical timing tips: call Monday mornings and Friday afternoons, dial direct and cell numbers, call 5 minutes before/after the top of the hour.",
+          "key_takeaway": "Outbound cold calling is a timing and channel game. Small tactical changes to when and where you call can dramatically improve connect rates without changing your pitch.",
+          "b2b_saas_relevance": "Practical and immediately deployable for SaaS SDR teams. In an era where phone is deprioritized, Bay's tactical advice helps extract maximum ROI from cold calling.",
+          "tags": ["cold calling", "pick-up rate", "timing", "connect rate", "SDR tactics"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Steli Efti",
+      "linkedin_handle": "steli-efti",
+      "linkedin_url": "https://www.linkedin.com/in/steli-efti",
+      "background": "CEO of Close.io (CRM) | Author of The Startup Sales Playbook | Known for relentless follow-up philosophy",
+      "posts": [
+        {
+          "post_id": "6-1",
+          "url": "https://www.linkedin.com/in/steli-efti",
+          "date": "2024-2025",
+          "topic": "breakup emails",
+          "summary": "Efti makes the case for breakup emails as a highly effective but underused tactic. A well-crafted breakup email often revives conversations because it signals respect for the prospect's time.",
+          "key_takeaway": "The breakup email is not a last resort — it's a strategic tool. A respectful 'this is my last reach out' message often gets more responses than the previous 4-5 touchpoints combined.",
+          "b2b_saas_relevance": "Directly applicable to SaaS outbound sequences. Efti's approach provides a professional close to sequences that preserves brand reputation while occasionally reviving warm leads.",
+          "tags": ["breakup email", "follow-up", "sequence", "cold email", "SaaS outbound"]
+        },
+        {
+          "post_id": "6-2",
+          "url": "https://www.linkedin.com/in/steli-efti",
+          "date": "2025",
+          "topic": "founder-led sales",
+          "summary": "Efti argues early-stage SaaS founders must personally do the first 100 cold outreach conversations before hiring SDRs. Founders carry an authentic 'why' no SDR script can replicate.",
+          "key_takeaway": "Founder-led selling is a research phase, not a pride phase. Intelligence gathered from personal cold outreach informs ICP clarity, messaging, and the eventual SDR playbook.",
+          "b2b_saas_relevance": "Particularly valuable for pre-SDR B2B SaaS companies or those rebuilding GTM. Challenges the instinct to outsource outbound too early and lose the learning loop.",
+          "tags": ["founder-led sales", "ICP", "GTM", "early-stage", "SDR playbook", "startup"]
+        },
+        {
+          "post_id": "6-3",
+          "url": "https://www.linkedin.com/in/steli-efti",
+          "date": "2024",
+          "topic": "follow-up persistence",
+          "summary": "Efti shares his 'follow up until you get a yes or a no' philosophy — arguing most salespeople give up after 2-3 touches while most closes happen between touches 5-12.",
+          "key_takeaway": "Persistence — done respectfully with value added at each touch — is a competitive advantage. The reps who follow up most thoughtfully (not most aggressively) win more deals.",
+          "b2b_saas_relevance": "Particularly relevant for SaaS deals with longer sales cycles. Efti's follow-up philosophy, combined with value-adding touchpoints, keeps pipeline warm without being annoying.",
+          "tags": ["follow-up", "persistence", "cadence", "touches", "long sales cycle", "SaaS pipeline"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Alex Berman",
+      "linkedin_handle": "alexberman",
+      "linkedin_url": "https://www.linkedin.com/in/alexberman",
+      "background": "B2B sales strategist | Cold email expert | Built and sold multiple agencies | YouTube creator on outbound sales",
+      "posts": [
+        {
+          "post_id": "7-1",
+          "url": "https://www.linkedin.com/in/alexberman",
+          "date": "2025",
+          "topic": "cold email personalization",
+          "summary": "Berman demonstrates a scrappy, creativity-first approach to cold email personalization using publicly available information (LinkedIn posts, podcast appearances, company announcements) to craft custom first lines.",
+          "key_takeaway": "Personalization doesn't require expensive tools — it requires curiosity and 5 minutes of research. The best custom first lines come from Googling, not AI automation.",
+          "b2b_saas_relevance": "Directly applicable to resource-constrained SaaS sales teams. Berman's low-cost personalization approach is scalable even without enterprise sales tools.",
+          "tags": ["personalization", "cold email", "research", "custom first line", "low cost"]
+        },
+        {
+          "post_id": "7-2",
+          "url": "https://www.linkedin.com/in/alexberman",
+          "date": "2024",
+          "topic": "cold email experimentation",
+          "summary": "Berman shares how his agency uses a test-and-iterate cold email approach: send 50 emails to a tight ICP, measure open/reply rates, iterate messaging, then scale what works. He treats email as a scientific experiment.",
+          "key_takeaway": "Cold outreach is a scientific experiment, not a creative exercise. Set up outreach with clear hypotheses and let data — not intuition — drive sequence evolution.",
+          "b2b_saas_relevance": "Valuable for SaaS demand gen and SDR teams wanting to build a feedback loop into outbound. Berman's structured experimentation model is especially useful for testing new market segments.",
+          "tags": ["experimentation", "A/B testing", "ICP", "iteration", "cold email", "demand gen"]
+        },
+        {
+          "post_id": "7-3",
+          "url": "https://www.linkedin.com/in/alexberman",
+          "date": "2024-2025",
+          "topic": "video prospecting",
+          "summary": "Berman advocates for short (under 60 seconds) personalized video messages as a breakthrough cold outreach tactic, sharing data showing video prospecting has 3-5x higher response rates than standard email.",
+          "key_takeaway": "When everyone else sends text, send video. A 45-second personalized Loom clip referencing something specific about the prospect's company stands out in any inbox.",
+          "b2b_saas_relevance": "High-relevance for SaaS SDR teams targeting mid-market and enterprise buyers. Video prospecting scales well with Loom/Vidyard and aligns with SaaS buyers' comfort with async communication.",
+          "tags": ["video prospecting", "Loom", "Vidyard", "async", "response rate", "enterprise SaaS"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Max Altschuler",
+      "linkedin_handle": "maxaltschuler",
+      "linkedin_url": "https://www.linkedin.com/in/maxaltschuler",
+      "background": "Founder of Sales Hacker (acquired by Outreach) | General Partner at GTMfund | Author of Hacking Sales",
+      "posts": [
+        {
+          "post_id": "8-1",
+          "url": "https://www.linkedin.com/in/maxaltschuler",
+          "date": "2025",
+          "topic": "outbound as a system",
+          "summary": "Altschuler analyzes outbound pipeline data across GTMfund portfolio companies, noting that companies consistently hitting pipeline targets treat outbound as a system — not a task. They have documented ICPs, sequenced cadences, and weekly pipeline reviews.",
+          "key_takeaway": "Outbound at scale is a system problem, not a rep motivation problem. The companies winning in pipeline generation have built repeatable, documented systems that any rep can plug into.",
+          "b2b_saas_relevance": "Particularly valuable for SaaS RevOps leaders and CROs. Altschuler's portfolio-level perspective provides rare insight into what's actually working across multiple high-growth SaaS companies simultaneously.",
+          "tags": ["outbound system", "ICP", "pipeline", "RevOps", "CRO", "portfolio insights"]
+        },
+        {
+          "post_id": "8-2",
+          "url": "https://www.linkedin.com/in/maxaltschuler",
+          "date": "2025",
+          "topic": "AI-powered outbound",
+          "summary": "Altschuler addresses the AI outbound revolution, arguing that while AI has made high-volume outreach cheap, it has also made it commoditized. The edge now belongs to teams using AI for research and analysis — not for writing generic emails at scale.",
+          "key_takeaway": "AI should power the research layer of outbound (finding signals, summarizing prospect context), not the writing layer. AI-written cold emails are now the lowest common denominator.",
+          "b2b_saas_relevance": "Highly relevant for SaaS sales teams evaluating AI SDR tools. Altschuler's nuanced take helps teams avoid automating themselves into irrelevance while still leveraging AI competitively.",
+          "tags": ["AI", "outbound", "AI SDR", "research", "signals", "commoditization"]
+        },
+        {
+          "post_id": "8-3",
+          "url": "https://www.linkedin.com/in/maxaltschuler",
+          "date": "2025",
+          "topic": "cold email A/B testing",
+          "summary": "Altschuler shares his A/B testing framework: test subject lines first, then opening lines, then CTAs. Never change more than one variable per test, and run each test for a minimum of 100 sends before drawing conclusions.",
+          "key_takeaway": "A/B testing cold email is non-negotiable for SaaS teams serious about outbound optimization. Small improvements in subject line performance compound dramatically across thousands of sequences.",
+          "b2b_saas_relevance": "Immediately actionable for SaaS sales ops and enablement teams. Altschuler's structured A/B testing approach can be implemented in any major sequencing tool without additional cost.",
+          "tags": ["A/B testing", "subject line", "CTA", "cold email optimization", "sequences", "Outreach", "Salesloft"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Armand Farrokh",
+      "linkedin_handle": "armand-farrokh",
+      "linkedin_url": "https://www.linkedin.com/in/armand-farrokh",
+      "background": "Host of 30 Minutes to President's Club podcast | VP of Sales coach | Known for tactical framework-heavy sales content",
+      "posts": [
+        {
+          "post_id": "9-1",
+          "url": "https://www.linkedin.com/posts/armand-farrokh_30mpc-sales-sdr-activity-6854096838383943681-Ggbt",
+          "date": "2021-10",
+          "topic": "cold email format",
+          "summary": "Farrokh introduces the 3x3 rule for cold emails: no more than 3 body sections, each no longer than 3 lines. The structure flows: Problem → Social Proof → CTA.",
+          "key_takeaway": "Cold email brevity is not a style choice — it's a conversion tactic. Respecting the prospect's time by being ruthlessly concise signals professionalism and increases reply rates.",
+          "b2b_saas_relevance": "One of the most-referenced frameworks in SaaS SDR training. The 3x3 rule is easy to teach, easy to audit, and directly improves deliverability and reply rates when applied consistently.",
+          "tags": ["3x3 rule", "cold email", "brevity", "SDR training", "format", "deliverability"]
+        },
+        {
+          "post_id": "9-2",
+          "url": "https://www.linkedin.com/posts/armand-farrokh_sales-sdr-coldcalling-activity-6901952603966599168-h_gF",
+          "date": "2022",
+          "topic": "cold call objection handling",
+          "summary": "Farrokh shares how to handle early cold call objections (not interested) by asking 'what's happening in 6 months?' instead of pushing for an immediate meeting, reframing around the prospect's future buying window.",
+          "key_takeaway": "When a prospect says 'not interested,' the best move isn't to overcome the objection — it's to understand their timeline. Qualifying future intent is far more valuable than forcing a premature meeting.",
+          "b2b_saas_relevance": "Essential for SaaS SDRs and AEs calling into accounts with 3-12 month buying cycles. Transforms cold call rejections into pipeline intelligence that informs future nurture strategy.",
+          "tags": ["objection handling", "cold calling", "timeline", "future intent", "nurture", "buying cycle"]
+        },
+        {
+          "post_id": "9-3",
+          "url": "https://www.linkedin.com/in/armand-farrokh",
+          "date": "2025-05",
+          "topic": "SDR hiring",
+          "summary": "Farrokh argues the mock cold call is the best SDR hiring test — and that the call itself matters less than how the candidate handles the debrief. He sends candidates a podcast episode to prepare, then evaluates coachability.",
+          "key_takeaway": "The best predictor of SDR success is coachability, not natural talent. Building cold call roleplays into hiring identifies which candidates will improve their outreach over time.",
+          "b2b_saas_relevance": "Critical for SaaS sales leaders building or scaling SDR teams. Farrokh's hiring framework helps identify reps who will compound their outbound performance rather than plateau.",
+          "tags": ["SDR hiring", "mock cold call", "coachability", "roleplay", "sales leadership", "team building"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Morgan J. Ingram",
+      "linkedin_handle": "morganjingramamp",
+      "linkedin_url": "https://www.linkedin.com/in/morganjingramamp",
+      "background": "CEO of AMP Social | Sales coach to 50,000+ sellers | Specializes in human-first outbound in the AI era",
+      "posts": [
+        {
+          "post_id": "10-1",
+          "url": "https://www.linkedin.com/in/morganjingramamp",
+          "date": "2025",
+          "topic": "AE self-sourcing failure mode",
+          "summary": "Ingram identifies the #1 outbound failure mode in B2B SaaS: telling AEs to 'self-source pipeline' without giving them a system, framework, or coaching. The result is reps blasting AI-generated messages that all sound identical.",
+          "key_takeaway": "Self-sourcing pipeline without a structured system is not a strategy — it's wishful thinking. SaaS teams need a coordinated outbound playbook, not just a motivational push.",
+          "b2b_saas_relevance": "Highly relevant for SaaS VP Sales and CROs trying to reduce SDR dependency. Addresses one of the most common pipeline gaps in mid-market SaaS companies.",
+          "tags": ["AE self-sourcing", "outbound system", "pipeline", "B2B SaaS", "mid-market", "AI outreach"]
+        },
+        {
+          "post_id": "10-2",
+          "url": "https://www.linkedin.com/in/morganjingramamp",
+          "date": "2025",
+          "topic": "cold email volume vs. response rate",
+          "summary": "Ingram shares data showing cold email volume has doubled in 2 years while response rates have dropped 40%. He argues this is because most outreach is AI-generated and prospects have developed 'AI detector' instincts.",
+          "key_takeaway": "In the AI era, sounding human is the new personalization. Outreach that reads naturally — with imperfect phrasing, genuine curiosity, and authentic voice — outperforms polished AI copy.",
+          "b2b_saas_relevance": "Directly addresses the most pressing outbound challenge for SaaS teams adopting AI sales tools. Ingram's data-backed argument should inform how SaaS teams use AI SDR tools and prompt engineering.",
+          "tags": ["AI", "cold email", "response rate", "human outreach", "AI SDR", "authenticity", "volume"]
+        },
+        {
+          "post_id": "10-3",
+          "url": "https://www.salesforge.ai/blog/top-sales-influencers-on-linkedin",
+          "date": "2025",
+          "topic": "content-led warm outreach",
+          "summary": "Ingram connects SDR prospecting, LinkedIn follow-up, content-led warm outreach, and AI-era sales habits into a unified outbound playbook. He advocates using personal content and engagement to warm up cold prospects before the first outreach touch.",
+          "key_takeaway": "Cold outreach is warmer when you've already existed in the prospect's feed. Reps who build a LinkedIn presence and engage authentically before reaching out cold see dramatically higher response rates.",
+          "b2b_saas_relevance": "Emerging best practice for SaaS SDRs and AEs. LinkedIn engagement as a pre-outreach warm-up strategy is particularly effective in B2B SaaS where buyers are highly active on LinkedIn.",
+          "tags": ["content-led", "warm outreach", "LinkedIn", "SDR", "BDR", "social selling", "pipeline"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+Samantha McKenna | Show Me You Know Me: Mastering Personalization in Sales Outreach
+https://www.youtube.com/watch?v=IfxqQWdMDYI
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Samantha McKenna | Show Me You Know Me – Use Data To Personalize Your Outreach
+https://www.youtube.com/watch?v=pzY4QlG-X5A
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Samantha McKenna | Complete COLD EMAIL COURSE (Apollo Academy)
+https://www.youtube.com/watch?v=H5zsGa9FeuI
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Josh Braun | How to Overcome Prospect Resistance: 4T Cold Email Framework
+https://www.youtube.com/watch?v=9cKZVyAQ3mY
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Josh Braun | How to Create and Scale a Cold Email Prospecting Strategy
+https://www.youtube.com/watch?v=vdtLIUmGkXs
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Josh Braun | Let's Write a Good Cold Email
+https://www.youtube.com/watch?v=lVUDHxrZJCY
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Kevin Dorsey | Cold Calling Secrets REVEALED: CRO Kevin Dorsey's $100M+ Scripts
+https://www.youtube.com/watch?v=MLo0V2mnHBw
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Kevin Dorsey | The 10 Commandments of Daily Sales Success
+https://www.youtube.com/watch?v=mKhcPYAEPYM
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Kevin Dorsey | Why 90% of SDR Teams Fail (and How to Build the 10% That Don't)
+https://www.youtube.com/watch?v=oVCB224tW6s
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Kyle Coleman | Why Your Outbound Sucks (and How to Fix It)
+https://www.youtube.com/watch?v=g9mejr_-odc
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Kyle Coleman | Scaling Your Outbound Engine ft. Kyle Coleman
+https://www.youtube.com/watch?v=Y7QLIHx1wpw
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Kyle Coleman | AI in GTM: Effectiveness Over Efficiency
+https://www.youtube.com/watch?v=GC3Wsg8gu00
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Jason Bay | Outbound Prospecting Masterclass: Book Meetings in 2026
+https://www.youtube.com/watch?v=dDM80maP1N0
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Jason Bay | Cold Email Masterclass: Book Meetings in 2026
+https://www.youtube.com/watch?v=JX1UNIJwcCY
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Jason Bay | Live Cold Calls: How Many Meetings Can The #1 Sales Trainer Book?
+https://www.youtube.com/watch?v=9WtOHUDgbIA
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Steli Efti | Craft High-Performing Email Sequences (Webinar)
+https://www.youtube.com/watch?v=XH2SHKREPDY
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Steli Efti | How to Build a Solo SaaS Sales Machine (MicroConf 2015)
+https://www.youtube.com/watch?v=8PuKwEfXZqc
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Steli Efti | Sales Alchemy – Turn a Dry Pipeline into Golden Opportunities
+https://www.youtube.com/watch?v=Sx6e-AIEeaY
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Alex Berman | How to Cold Email Clients (Winning Cold Email Templates)
+https://www.youtube.com/watch?v=hatrtJIncLc
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Alex Berman | I Studied 1,000,000 Cold Emails, Here's What Works in 2025
+https://www.youtube.com/watch?v=4qCXuIQO5T4
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Alex Berman | The Insane Psychology Behind Cold Email
+https://www.youtube.com/watch?v=8gi8tCb3Q4I
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Max Altschuler | How To Hack Sales (Close More Deals, Easier)
+https://www.youtube.com/watch?v=nfHBysGMenc
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Max Altschuler | Everything Modern Sales and Outbound with Max Altschuler
+https://www.youtube.com/watch?v=MtOB0W20Wjs
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Max Altschuler | Early-Stage SaaS GTM with GTMfund's GP Max Altschuler
+https://www.youtube.com/watch?v=9QQZd57NrdI
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Armand Farrokh | [Playbook] Cold Email: Analyzing 85M+ Cold Emails (2025)
+https://www.youtube.com/watch?v=yjOG_QOJgII
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Armand Farrokh | Stop Failing at Cold Email in 2025… Teach Your Reps THIS!
+https://www.youtube.com/watch?v=0KSenwLuFiE
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Armand Farrokh | How to Write Cold Emails That Get Replies | Problem + Value Framework
+https://www.youtube.com/watch?v=NLASslONNrU
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Morgan Ingram | LinkedIn Blueprint – How SDRs Can Book More Meetings
+https://www.youtube.com/watch?v=I-PmhgTQTik
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Morgan Ingram | My LinkedIn Outbound Strategy That Books 25+ Meetings a Month
+https://www.youtube.com/watch?v=nUe5IpnleRc
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
+Morgan Ingram | LIVE Cold Outreach Sequence Tear-Downs
+https://www.youtube.com/watch?v=C4WCOJa5Nwo
+type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+
