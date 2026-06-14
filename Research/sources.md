@@ -6,8 +6,8 @@ Selection prioritized practitioners who actively share outbound sales, prospecti
 
 
 ## 1. Samantha McKenna
-LinkedIn:
-Youtube:
+LinkedIn: https://www.linkedin.com/in/samsalesli/
+Youtube: https://www.youtube.com/@hashtagsamsales
 
 Content Collected Date
 LinkedIn:
