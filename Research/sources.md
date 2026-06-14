@@ -42,35 +42,40 @@ LinkedIn: https://www.linkedin.com/in/kddorsey3/
 LinkedIn: Nov 2022 – Oct 2023  
 Youtube: Oct 2017 – Jun 2024
 
-**Why Selected:**
+**Why Selected:**  
+Selected for his experience leading SaaS sales organizations and building repeatable outbound systems. His content combines strategy, execution, and performance measurement.
 
-**Content Focus:**
+**Content Focus:**  
+Sales leadership, outbound systems, SDR performance, pipeline management.
 
 ## 4. Kyle Coleman
 
-LinkedIn:  
-Youtube:
+LinkedIn: https://www.linkedin.com/in/kyletcoleman/
 
 **Content Collected Date**  
 LinkedIn: 2020 – 2025  
 Youtube: Sep 2024 – Nov 2024
 
-**Why Selected:**
+**Why Selected:**  
+Selected for his expertise in go-to-market strategy and revenue operations. His insights help connect outbound activity with broader revenue growth objectives.
 
-**Content Focus:**
+**Content Focus:**  
+Go-to-market strategy, revenue operations, pipeline optimization, SaaS growth.
 
 ## 5. Jason Bay
 
-LinkedIn:
-Youtube:
+LinkedIn: https://www.linkedin.com/in/jasondbay/
+Youtube: https://www.youtube.com/@jasondbay
 
 **Content Collected Date**  
 LinkedIn: Aug 2023 – 2025  
 Youtube: Aug 2024 – Jul 2025
 
 **Why Selected:**
+Selected for his hands-on experience training outbound sales teams and improving prospecting effectiveness. His content emphasizes practical execution and measurable results.
 
 **Content Focus:**
+Prospecting, cold outreach execution, sales development, outbound frameworks.
 
 ## 6. Steli Efti
 
