@@ -79,55 +79,61 @@ Prospecting, cold outreach execution, sales development, outbound frameworks.
 
 ## 6. Steli Efti
 
-LinkedIn:  
-YouTube:
+LinkedIn: https://www.linkedin.com/in/steliefti/  
+YouTube: https://www.youtube.com/@SteliEfti
 
 **Content Collected Date**  
 LinkedIn: 2024 – 2025  
 YouTube: May 2014 – Apr 2021
 
-**Why Selected:**
+**Why Selected:**  
+Selected for his experience as a SaaS founder and his long-standing focus on outbound sales. He offers a founder's perspective on customer acquisition and sales development.
 
-**Content Focus:**
+**Content Focus:**  
+Prospecting, cold outreach execution, sales development, outbound frameworks.
 
 ## 7. Alex Berman
 
-LinkedIn:
-Youtube:
+LinkedIn: https://www.linkedin.com/in/alexanderberman/
+Youtube: https://www.youtube.com/@AlexBerman 
 
 **Content Collected Date**  
 LinkedIn: 2024 – 2025  
 YouTube: Oct 2022 – Sep 2024
 
-**Why Selected:**
+**Why Selected:**  
+Selected for his expertise in scalable cold email systems and lead generation processes. His content provides practical examples of outbound campaigns and outreach optimization.
 
-**Content Focus:**
+**Content Focus:**  
+Cold email, lead generation, outbound automation, campaign optimization.
 
 ## 8. Max Altschuler
 
-LinkedIn:
-Youtube:
+LinkedIn: https://www.linkedin.com/in/maxaltschuler  
 
 **Content Collected Date**  
 LinkedIn:2025  
 YouTube: Oct 2020 – May 2024
 
-**Why Selected:**
+**Why Selected:**  
+Selected for his contributions to modern outbound sales and go-to-market strategy. His content focuses on scalable systems that support sustainable revenue growth.
 
-**Content Focus:**
+**Content Focus:**  
+Outbound strategy, GTM systems, sales scaling, pipeline development.
 
 ## 9. Armand Farrokh
 
-LinkedIn:
-Youtube:
+LinkedIn: https://www.linkedin.com/in/armand-farrokh
 
 **Content Collected Date**  
 LinkedIn:Oct 2021 – May 2025  
 YouTube: Aug 2024 – Jul 2025
 
-**Why Selected:**
+**Why Selected:**  
+Selected for his practical insights into modern SaaS sales execution. His content frequently covers prospecting, discovery, messaging, and sales process improvement.
 
-**Content Focus:**
+**Content Focus:**  
+Prospecting, discovery calls, messaging, SaaS sales execution.
 
 ## 10. Morgan Ingram
 
@@ -138,6 +144,8 @@ Youtube: [https://www.youtube.com/@MorganJIngram](https://www.youtube.com/@Morga
 LinkedIn: 2025  
 YouTube: Aug 2020 – Apr 2025
 
-**Why Selected:**
+**Why Selected:**  
+Selected for his expertise in sales development and outbound pipeline creation. He regularly shares actionable frameworks for prospecting, outreach, and SDR performance improvement.
 
-**Content Focus:**
+**Content Focus:**  
+Sales development, outbound prospecting, SDR training, pipeline generation.
