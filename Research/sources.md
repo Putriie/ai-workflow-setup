@@ -14,27 +14,29 @@ LinkedIn: 2024 - 2025
 Youtube: July 2022 - June 2024
 
 **Why Selected:**  
-Founder of #samsales Consulting and recognized expert in social selling and personalized outreach.
+Selected for her expertise in LinkedIn prospecting and social selling. Her content focuses on building authentic relationships and generating opportunities through personalized outreach.
 
-**Content Focus:**
+**Content Focus:**  
+LinkedIn prospecting, social selling, personalization, relationship-driven outreach.
 
 ## 2. Josh Braun
 
-LinkedIn:  
-Youtube:
+LinkedIn: https://www.linkedin.com/in/josh-braun/  
+Youtube: https://www.youtube.com/@joshbraunsales
 
 **Content Collected Date**  
 LinkedIn: Jul 2022 – Jan 2025  
 Youtube: Feb 2021 – Apr 2024
 
-**Why Selected:**
+**Why Selected:**  
+Selected for his practical approach to cold outreach messaging and buyer psychology. He frequently shares frameworks that help sales professionals improve response rates and engagement.
 
-**Content Focus:**
+**Content Focus:**  
+Cold email messaging, buyer psychology, objection handling, sales communication.
 
 ## 3. Kevin Dorsey
 
-LinkedIn:  
-Youtube:
+LinkedIn: https://www.linkedin.com/in/kddorsey3/
 
 **Content Collected Date**  
 LinkedIn: Nov 2022 – Oct 2023  
